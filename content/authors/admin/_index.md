@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Prkash Naikade प्रकाश नाईकडे 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Prakash Kondibhau
+last_name: Naikade
 
 # Status emoji
 status:
